@@ -1,3 +1,5 @@
+package sortingAlgorithms;
+
 public class MergeSort {
     static int arr[] = { 10, 14, 19, 26, 27, 31, 33, 35, 42, 44, 0 };
     static int[] sortedArr = new int[11];

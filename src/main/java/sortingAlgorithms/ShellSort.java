@@ -1,3 +1,5 @@
+package sortingAlgorithms;
+
 public class ShellSort {
 
 

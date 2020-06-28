@@ -1,3 +1,5 @@
+package sortingAlgorithms;
+
 public class QuickSort {
 
     static int intArray[] = {4,6,3,2,1,9,7,4,6,3,2,1,9,7,4,6,3,2,1,9,7,4,6,3,2,1,9,7,4,6,3,2,1,9,7};
