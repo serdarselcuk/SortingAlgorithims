@@ -6,7 +6,10 @@ import java.util.regex.Pattern;
 
 public class XMLReader {
 
+
+
     public static void main(String[] args) {
+
         String[] lines ={
                         "<h1>some</h1>",
                         "<h1>had<h1>public</h1></h1>",
